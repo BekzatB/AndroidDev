@@ -26,7 +26,6 @@ object SetPostData {
         "Посмотреть все комментарии (589)",
         "5 часов назад"
     )
-
     val secondPostData = PostData(
         2,
         R.drawable.nine_gag,
